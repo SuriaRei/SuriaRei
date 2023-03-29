@@ -1,12 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Saifu Liphuhara
+สวัสดีจ้า ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)ชื่อ Saifu Liphuhara
 =======================================================================================================================================
 
 Reverse Engineers Beginner
 --------------------------
 
-i've been learning C# for 3 years, i'm a student for now
+กำลังตั้งใจศึกษาภาษา Programmer C# ใน 3 ปี , ยังเป็นนักเรียนอยู่น้าา
 
-*   🌍  I'm based in Thailand### Skills 
+*     How Flag: Thailand emoji looks on Google. เป็นคนไทย Thailand### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
